@@ -28,17 +28,20 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/Shopping-Cart.git
-
+```
 ### 2. Navigate to the project folder
+```bash
 cd Shopping-Cart
-
+```
 ### 3. Install dependencies
+```bash
 npm install
-
+```
 ### 4. Start the application
+```bash
 npm run dev
-
+```
 # 5. Build the application
+```bash
 npm run build
 ```
-
