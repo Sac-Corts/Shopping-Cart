@@ -21,6 +21,7 @@ This project is a shopping cart for an online guitar store that provides users w
 ## 📸 Site
 **Site:** https://sacguitarla.netlify.app/ 
 
+
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
